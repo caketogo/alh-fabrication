@@ -24,10 +24,10 @@
 define( 'DB_NAME', 'forge' );
 
 /** Database username */
-define( 'DB_USER', 'forge' );
+define( 'DB_USER', 'alh_fabrications' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'z6TNmseXqhxZcIArfot0' );
+define( 'DB_PASSWORD', 'oUWKJzkWPVhvlMLqiViA' );
 
 /** Database hostname */
 define( 'DB_HOST', '127.0.0.1' );
