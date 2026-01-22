@@ -21,10 +21,10 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'forge' );
+define( 'DB_NAME', 'alh_fabrications' );
 
 /** Database username */
-define( 'DB_USER', 'alh_fabrications' );
+define( 'DB_USER', 'forge' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'oUWKJzkWPVhvlMLqiViA' );
